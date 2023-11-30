@@ -3,12 +3,7 @@
   box-sizing: border-box;
 }
 .desktop-1 {
-  background: linear-gradient(
-    171.44deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(56, 0, 216, 1) 54.16666865348816%,
-    rgba(0, 0, 0, 1) 100%
-  );
+  background: linear-gradient(171deg, #000 0.78%, #8F73E0 54.39%, #000 99.75%);
   width: 100%;
   height: 3494px;
   position: relative;
